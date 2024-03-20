@@ -40,6 +40,10 @@ body{
     background-color: #000;
 }
   
+#onpage {
+    text-decoration: underline overline;
+}
+
 #sidebar {
     position: fixed;
     right: 0;
